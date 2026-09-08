@@ -1,0 +1,4 @@
+Hola esta es la primera versiòn de este archivo
+aquì probarè el conflicto en GitHub
+
+Esta es la linea original
