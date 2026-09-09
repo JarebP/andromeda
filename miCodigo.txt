@@ -5,7 +5,6 @@ Esta es el segundo cambio que se hace...
 Esta es la primera modificacion
 
 
-<<<<<<< HEAD
 Este mensaje es el de la ramaTest2
 Se espera que al subirlo
 cause un conflicto con la ramaTest1
@@ -14,8 +13,6 @@ agregué otra cosa
 Adios.
 
 
-=======
->>>>>>> a72b696cbc92162430c70c08327804b3dbd5e1f6
 Agregamos un nuevo cambio que resultará en un conflicto
 agrego más lineas para asgurar que tendrá problemas 
 con los siguientes cambios...
