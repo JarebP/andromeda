@@ -3,3 +3,11 @@ aquì probarè el conflicto en GitHub
 
 Esta es el segundo cambio que se hace...
 Esta es la primera modificacion
+
+
+Agregamos un nuevo cambio que resultará en un conflicto
+agrego más lineas para asgurar que tendrá problemas 
+con los siguientes cambios...
+Este es todo el mensaje
+que causará conflictos... 
+Adios.
