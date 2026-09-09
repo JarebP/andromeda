@@ -3,3 +3,11 @@ aquì probarè el conflicto en GitHub
 
 Esta es el segundo cambio que se hace...
 Esta es la primera modificacion
+
+
+Este mensaje es el de la ramaTest2
+Se espera que al subirlo
+cause un conflicto con la ramaTest1
+Ya que en estas lineas 
+agregué otra cosa
+Adios.
