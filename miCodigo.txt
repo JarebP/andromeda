@@ -5,17 +5,7 @@ Esta es el segundo cambio que se hace...
 Esta es la primera modificacion
 
 
-Este mensaje es el de la ramaTest2
-Se espera que al subirlo
-cause un conflicto con la ramaTest1
-Ya que en estas lineas 
-agregué otra cosa
-Adios.
-
-
-Agregamos un nuevo cambio que resultará en un conflicto
-agrego más lineas para asgurar que tendrá problemas 
-con los siguientes cambios...
-Este es todo el mensaje
-que causará conflictos... 
-Adios.
+Este es el mensaje de la rama nuevoTest1
+Este mensaje después tendrá conflicto 
+cuando quiera hacer merge en la rama main
+intentaremos solucionar con un rebase
