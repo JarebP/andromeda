@@ -6,7 +6,7 @@ Esta es la primera modificacion
 
 
 ultimo mensjae para conflicto
-Este mensaje después tendrá conflicto 
+Este mensaje después tendrá conflicto 22222
 cuando quiera hacer merge en la rama main
 intentaremos solucionar con un rebase
 Este es el mensaje de la rama nuevoTest1-conflicto
